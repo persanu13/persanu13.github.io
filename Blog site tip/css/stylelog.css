@@ -1,0 +1,221 @@
+
+
+color{
+    color:#013870;
+    color: #eaf6de;
+    color:#01e08f;
+    color:#00db8b;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background: #01e08f;
+}
+
+
+
+
+#continut{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding-top: 200px;
+
+
+}
+
+#log{
+    flex-basis: 50%;
+    height:800px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#casutalog{
+    flex-wrap: wrap;
+    width: 200px;
+    display: flex;
+   justify-content: center;
+    padding:100px;
+    background: #eaf6de;
+    padding-top: 20px;
+    padding-bottom: 75px;
+
+
+
+
+}
+
+#casutalog h1{
+    color: #013870;
+   font-family: 'Karantina', cursive;
+    font-size: 50px;
+
+}
+
+#casutalog h2{margin-bottom:-35px;
+    color: #013870;
+    font-size: 19px;
+    font-family: Oxanium , cursive;
+    transition:300ms;
+    width:100%;
+
+
+
+
+
+
+
+}
+
+#casutalog input {
+    width: 300px;
+    font-size: 20px;
+    border: none;
+    padding: 8px;
+    background:transparent;
+    border-bottom: #013870 solid 1px;
+    transition: 200ms;
+    outline: none;
+    color: #013870;
+    font-family: Oxanium , cursive;
+
+
+}
+
+
+
+
+#casutalog #nume1:hover input{
+    border-bottom: #00db8b solid 1px;
+    color: #00db8b;
+}
+#casutalog #nume1:hover h2{
+    color: #00db8b;
+
+}
+#casutalog #parola1:hover input{
+    border-bottom: #00db8b solid 1px;
+    color: #00db8b;
+}
+
+#casutalog #parola1:hover h2{
+    color: #00db8b;
+
+}
+
+
+#casutalog button{
+    margin-top: 125px;
+    width:300px;
+   padding:5px;
+    font-size: 25px;
+    font-family: Oxanium , cursive;
+    color:#eaf6de;
+    background: #013870;
+    border: none;
+    outline: none;
+}
+
+#casutalog button:hover{
+
+    color: #00db8b;
+}
+
+#sign{
+    flex-basis: 50%;
+    height:800px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+#casutasign{
+    flex-wrap: wrap;
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    padding:100px;
+    background: #eaf6de;
+    padding-top: 20px;
+    padding-bottom:77px;
+
+
+}
+
+#casutasign h1{
+    color: #013870;
+    font-family: 'Karantina', cursive;
+    font-size: 50px;
+}
+
+#casutasign h2{margin-bottom:-35px;
+    color: #013870;
+    font-size: 19px;
+    font-family: Oxanium , cursive;
+    transition:300ms;
+
+
+
+
+
+}
+
+#casutasign input {
+    width: 300px;
+    font-size: 20px;
+    border: none;
+    padding: 8px;
+    background:transparent;
+    border-bottom: #013870 solid 1px;
+    transition: 200ms;
+    outline: none;
+    color: #013870;
+    font-family: Oxanium , cursive;
+
+
+}
+
+#casutasign #nume1:hover input{
+    border-bottom: #00db8b solid 1px;
+    color: #00db8b;
+}
+#casutasign #nume1:hover h2{
+    color: #00db8b;
+
+}
+#casutasign #parola1:hover input{
+    border-bottom: #00db8b solid 1px;
+    color: #00db8b;
+}
+
+#casutasign #parola1:hover h2{
+    color: #00db8b;
+
+}
+
+
+#casutasign button{
+    margin-top: 75px;
+    width:300px;
+    padding:5px;
+    font-size: 25px;
+    font-family: Oxanium , cursive;
+    color:#eaf6de;
+    background: #013870;
+    border: none;
+    outline: none;
+}
+
+#casutasign button:hover{
+
+    color: #00db8b;
+}
+
+
+
+
+

@@ -1,0 +1,145 @@
+
+
+body {
+    margin: 0;
+    padding: 0;
+    background: #01e08f;
+}
+
+#continut2{
+    padding-top: 200px;
+}
+
+
+#h1{
+    text-align: center;
+    margin-right:200px;
+    font-family: 'Karantina', cursive;
+    font-size: 70px;
+    margin-bottom: 200px;
+    width: 100%;
+    resize: none;
+
+
+
+}
+
+#h2{
+    text-align: center;
+    font-family: 'Karantina', cursive;
+    font-size: 70px;
+    margin-top: 200px;
+    resize: none;
+    color: #013870;
+    outline: none;
+
+
+
+}
+
+#continut{
+    max-width:1400px;
+    margin: auto;
+    background: #eaf6de;
+    margin-top: 150px;
+    padding-top: 1px;
+    color: #013870;
+    padding-bottom: 180px;
+    margin-bottom: 100px;
+
+
+
+}
+form img{
+
+   text-align: center;
+    height: 200px;
+    border: #013870 solid 2px;
+    background: #013870;
+    outline: none;
+   max-width:800px;
+    height: 100%;
+
+
+}
+
+form input{
+    color: #f1e5e6;
+    background-color: #d3394c;
+    width: 0.1px;
+    margin-top: 100px;
+}
+
+form{
+    margin-top: 20px;
+}
+
+
+#img1 button{
+    background:transparent;
+
+}
+
+form{
+    display: flex;
+    justify-content: center;
+
+}
+
+
+label{
+
+    width: 800px;
+    background: black;
+    height: 500px;
+    margin-left: -10px;
+    background-color: #d3394c;
+    color: #f1e5e6;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    font-family: 'Oxanium', coursive;
+    text-align: center;
+    flex-wrap: wrap;
+
+
+
+}
+
+#imgimg{
+    font-size: 110px;
+    flex-basis: 75%;
+}
+
+.text{  margin: 30px;
+  margin-top:-10px;
+   width: 800px;
+    height:600px ;
+    background:white;
+    color: #013870;
+    border: black;
+    outline: none;
+    font-size: 19px;
+    resize: none;
+    box-sizing: border-box;
+    font-family: 'Roboto Slab', serif;
+}
+#butoanemake{
+    display:flex;
+    justify-content: center;
+}
+
+.text1{  margin: 30px;
+    margin-top:-10px;
+    width:800px;
+    color: #013870;
+    font-size: 19px;
+    font-family: 'Roboto Slab', serif;
+}
+.casutapre{
+    margin-top: 20px;
+    display: flex;
+    justify-content:center;
+
+}
